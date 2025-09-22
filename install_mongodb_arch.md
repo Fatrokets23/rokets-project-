@@ -22,4 +22,4 @@ setelah itu kalian bisa periksa status mongodb dengan
 setelah mongodb berjalan kalian dapat mengguakan dengan comand `mongosh` dan setiap ingin membeuka mongodb kalian bisa mengunakan comand `sudo systemctl start mongodb`
 selamat mencoba
 
-
+![alt text](image.png)
