@@ -4,11 +4,11 @@ pastikan sistem di arch linux sudah ter update ke versi terbaru dengan comannd k
 `sudo pacman -Syu`
 
 
-## step 2 mngistal yay
+## step 2 mengistal yay
 setelah terupdate di arch linux, agar mempermudah kita kita bisa menggunakan yay jika kalian belum mengistal yay kalian dapat menginstal dengan comand
 `sudo pakman -S yay`
 
-## step 3 menginstal mongodb
+## step 3 menginstall mongodb
 setelah itu karena kita sudah mngistall yay maka kita hanya tinggal mengetik comand
 `yay -S mongodb-bin`
 
@@ -18,7 +18,7 @@ Untuk memulai MongoDB, gunakan comand berikut:
 setelah itu kalian bisa periksa status mongodb dengan
 `sudo systemctl status mongodb`
 
-## step  menggumakan mongo db
+## step 5 menggunakan mongo db
 setelah mongodb berjalan kalian dapat mengguakan dengan comand `mongosh` dan setiap ingin membeuka mongodb kalian bisa mengunakan comand `sudo systemctl start mongodb`
 selamat mencoba
 
